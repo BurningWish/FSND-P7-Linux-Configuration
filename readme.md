@@ -11,6 +11,7 @@ This is the project 7 for the Full Stack Web Developer Nanodegree Program. I con
 - My Linux instance's public IP Address is ```174.129.191.197```.
 - SSH port for connecting this instance is 2200.
 - ```grader``` is the username for you to login to instance.
+- Password for ```grader``` is ```123```.
 - Password is disabled for SSH login, and you must use the privite key, which is the ```grader_key``` in this repository.
 - In summary, the command for login to my instance is
 ```ssh grader@174.129.191.197 -i {path to the grader_key} -p 2200```
